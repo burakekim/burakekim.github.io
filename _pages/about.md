@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Burak, yet another AI4EO researcher, whose main goal is to transform remote sensing and earth observation data into insights by using machine learning!
+Hi! I am Burak, yet another AI4EO researcher, whose main goal is to transform remote sensing and earth observation data into insights by using machine learning! My research interest lies in the intersection between machine learning and computer vision with a special focus on deep learning and remote sensing. Long story short, I try my best to get the most out of remote sensing data.
 
-I'm a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/). My research interest lies in the intersection between machine learning and computer vision with a special focus on deep learning and remote sensing. 
+I'm a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/).
 
 I have Master's degree from [Istanbul Technical University](https://www.itu.edu.tr/en), Satellite Communications and Remote Sensing Program. 
 
