@@ -26,3 +26,7 @@ I am glad to share that I was selected to attend the [Eastern European Machine L
 **Burak Ekim**, Elif Sertel. "A Multi-Task Deep Learning Framework for Building Footprint Segmentation", IGARSS 2021: [Pre-print](https://arxiv.org/abs/2104.09375) and [Code](https://github.com/burakekim/MTL_homoscedastic_SRB).
 
 **Burak Ekim**, Elif Sertel, M. Erdem Kabadayı. "Automatic Road Extraction from Historical Maps using Deep Learning Techniques: A Regional Case Study of Turkey in a German World War II Map", 2021, ISPRS Int. J. Geo-Inf: [Paper](https://www.mdpi.com/2220-9964/10/8/492), [Code](https://github.com/UrbanOccupationsOETR/Automatic-Road-Extraction-from-Historical-Maps-using-Deep-Learning-Techniques), [Dataset and weights](https://urbanoccupations.ku.edu.tr/historical-road-types-for-turkey-1940s/).
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9kmrPH6U4ucC9bOOYr5mKNmBfa0zVBRvBzSgE0Wv9nY&cl=ffffff&w=a"></script>
+
