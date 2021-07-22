@@ -17,7 +17,7 @@ I have Master's degree from [Istanbul Technical University](https://www.itu.edu.
 
 My thesis has been awarded by [The Scientific and Technological Research Council of Turkey](https://www.tubitak.gov.tr/en) , 2210/C Scholarship Program in the Priority Fields in Science and Technology. The SPOT-7 and TerraSAR-X images used in my thesis are delivered by [AIRBUS](https://www.airbus.com/) and [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) after positive evaluation of scientific proposals, respectively. 
 
-Feel free to take a look at the relevant posts covering my thesis and more here on my supervisor's LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:activity:6817060928564015104/). 
+Feel free to take a look at the relevant posts covering my thesis and more [here](https://www.linkedin.com/feed/update/urn:li:activity:6817060928564015104/) on my supervisor's LinkedIn.
 
 I am glad to share that I was selected to attend the [Eastern European Machine Learning Summer School](https://www.eeml.eu/home) this year. See my certificate of attendance [here](https://drive.google.com/file/d/1Amv8TxvsJeVqNrDnrqNtwuQjt2i_Fn_H/view?usp=sharing).
 
