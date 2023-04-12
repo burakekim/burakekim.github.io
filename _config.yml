@@ -86,10 +86,9 @@ author:
   location         : "Germany"
   employer         :
   pubmed           : 
-  researchgate     : "https://www.researchgate.net/profile/Burak-Ekim"
   googlescholar    : "https://scholar.google.com/citations?user=fv_5G_4AAAAJ&hl=en"
   email            : "burak.ekim@unibw.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Burak-Ekim"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +105,7 @@ author:
   linkedin         : "burakekim"
   orcid            : "https://orcid.org/0000-0001-7014-1907"
   pinterest        :
-  soundcloud       :
+  soundcloud       :  
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
