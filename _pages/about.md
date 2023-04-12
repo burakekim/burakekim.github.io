@@ -57,7 +57,4 @@ My research interests focus especially, but not exclusively, on machine/deep lea
 
 [**July, 2020**] My MSc thesis has been awarded by [The Scientific and Technological Research Council of Turkey](https://www.tubitak.gov.tr/en), 2210/C Scholarship Program in the Priority Fields in Science and Technology. Feel free to take a look at the relevant posts covering my thesis and more [here](https://www.linkedin.com/feed/update/urn:li:activity:6817060928564015104/).
 
-
-//https://github.com/academicpages/academicpages.github.io/issues/137#issuecomment-635624907
-
 <script type="text/javascript" style="height:10px; width:10px" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9kmrPH6U4ucC9bOOYr5mKNmBfa0zVBRvBzSgE0Wv9nY&cl=ffffff&w=a"></script>
