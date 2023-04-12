@@ -1,50 +1,62 @@
----
+--
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+#layout: archive
+#title: "Burak Ekim"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD candidate and Research Assistant in the [Department of Aerospace Engineering](https://www.unibw.de/lrt) of [Bundeswehr University Munich](https://www.unibw.de/home), under the supervision of [Michael Schmitt](https://schmitt-muc.github.io/). 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Before, I was a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/). I received my Master’s degree in Satellite Communication and Remote Sensing from [Istanbul Technical University](https://www.itu.edu.tr/en), Turkey in 2021 under the supervision of [Elif Sertel](https://web.itu.edu.tr/~sertele/). 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research interests focus especially, but not exclusively, on machine/deep learning and computer vision with a particular emphasis on multi-modal earth observation data for _environmental conservation_ using _explainable machine learning_. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Publications
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+8-**Burak Ekim**, Michael Schmitt. 2023. "Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping". Oral presentation at ICLR 2023 Machine Learning for Remote Sensing Workshop. [Preprint](https://arxiv.org/pdf/2304.02407.pdf).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+7-**Burak Ekim**, Timo T. Stomberg, Ribana Roscher, Michael Schmitt. 2022. "Mapinwild: A Remote Sensing Dataset to Address the Question What Makes Nature Wild. Accepted for publication in IEEE Geoscience and Remote Sensing Magazine [Paper](https://ieeexplore.ieee.org/document/10089830?source=authoralert), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
 
-**Markdown generator**
+6-**Burak Ekim**, Michael Schmitt. 2022. "Mapinwild: A Dataset for Global Wilderness Mapping" IGARSS 2022, Kuala Lumpur: [Paper](https://ieeexplore.ieee.org/document/9883217), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+5- Elif Sertel, **Burak Ekim**, Paria Ettehadi Osgouei, and M. Erdem Kabadayi. 2022. "Land Use and Land Cover Mapping Using Deep Learning Based Segmentation Approaches and VHR Worldview-3 Images" Remote Sensing 14, no. 18: 4558. [Paper](https://doi.org/10.3390/rs14184558), [Code and Dataset](https://github.com/burakekim/LULCMapping-WV3images-CORINE-DLMethods).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+4- **Burak Ekim**, Zeyu Dong, Dmitry Rashkovetsky, Michael Schmitt. "The naturalness index for the identification of natural areas on regional scale", 2021, International Journal of Applied Earth Observation and Geoinformation: [Paper](https://www.sciencedirect.com/science/article/pii/S0303243421003299).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+3- **Burak Ekim**, Elif Sertel. "Deep neural network ensembles for remote sensing land cover and land use classification", 2021, International Journal of Digital Earth: [Paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.1980125).
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+2- **Burak Ekim**, Elif Sertel. "A Multi-Task Deep Learning Framework for Building Footprint Segmentation", IGARSS 2021, Brussels: [Paper](https://ieeexplore.ieee.org/document/9554766) and [Code](https://github.com/burakekim/MTL_homoscedastic_SRB). 
+
+1- **Burak Ekim**, Elif Sertel, M. Erdem Kabadayı. "Automatic Road Extraction from Historical Maps using Deep Learning Techniques: A Regional Case Study of Turkey in a German World War II Map", 2021, ISPRS Int. J. Geo-Inf: [Paper](https://www.mdpi.com/2220-9964/10/8/492), [Code](https://github.com/UrbanOccupationsOETR/Automatic-Road-Extraction-from-Historical-Maps-using-Deep-Learning-Techniques), [Dataset and Weights](https://urbanoccupations.ku.edu.tr/historical-road-types-for-turkey-1940s/).
+
+## News
+
+[**March, 2023**] Our paper titled [Explaining Multi Modal Data Fusion: Occlusion Analysis for Wilderness Mapping](https://arxiv.org/abs/2304.02407) has been accepted to [ICCV 2023 Machine Learning for Remote Sensing Workshop](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/#travel-support). I further received a travel grant to visit the conference. 
+
+[**October, 2022**] I visited [Ribana Roscher's Remote Sensing Group](http://rs.ipb.uni-bonn.de/people/) @ Bonn University.
+
+[**October, 2022**] I took over a demo station at the GeoforGood2022 Summit organized by Google. I talked about our _Naturalness Index_ and how it complements our main project on wilderness mapping [see the LinkedIn post here](https://www.linkedin.com/posts/burakekim_wild-wilderness-naturalness-activity-6983534299677356032-6A7v?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy).
+
+[**August, 2022**] I have presented our study "Towards an automatic, satellite-based mapping of wilderness areas" at ForestST2022 in Berlin. 
+
+[**June, 2022**] I have presented our work "MapInWild: A Dataset for Global Wilderness Mapping" at IGARSS 2022. See my related LinkedIn post [here](https://www.linkedin.com/posts/burakekim_wilderness-explainablemachinelarning-enviromentalmonitoring-activity-6955923794850893824-MWq1?utm_source=linkedin_share&utm_medium=member_desktop_web).
+
+[**January, 2022**] [2021 Best M.Sc. Thesis Award]: My master's thesis titled "Land Cover and Land Use Classification of Multi-Modal High-Resolution Satellite Images Using Multi-Task Deep Learning Approach" received the first prize in IEEE GRSS Turkey Master Thesis Competition. See my talk [here](https://www.youtube.com/watch?v=KznDYXoMdjQ) and announcement [here](https://grssturkey.org//tez-yarismasi)(in Turkish). 
+
+[**August, 2021**] I am selected to attent the [InSAR Processing and Time-Series Analysis for Geophysical Applications: InSAR Scientific Computing Environment (ISCE), ARIA Tools, and MintPy course](https://www.unavco.org/event/2021-short-course-insar-processing-analysis-isce/).
+
+[**July, 2021**] I have presented our work titled "A Multi-task Deep Learning Framework for Building Footprint Segmentation" at IGARSS 2021. 
+
+[**July, 2021**] I am selected to attend the [Eastern European Machine Learning Summer School](https://www.eeml.eu/home) this year.
+
+[**October, 2020**] The SPOT-7 and TerraSAR-X images used in my thesis are delivered by [AIRBUS](https://www.airbus.com/) and [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) after positive evaluation of scientific proposals, respectively. 
+
+[**July, 2020**] My MSc thesis has been awarded by [The Scientific and Technological Research Council of Turkey](https://www.tubitak.gov.tr/en), 2210/C Scholarship Program in the Priority Fields in Science and Technology. Feel free to take a look at the relevant posts covering my thesis and more [here](https://www.linkedin.com/feed/update/urn:li:activity:6817060928564015104/).
+
+
+
+<script type="text/javascript" style="height:10px; width:10px" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9kmrPH6U4ucC9bOOYr5mKNmBfa0zVBRvBzSgE0Wv9nY&cl=ffffff&w=a"></script>
