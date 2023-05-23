@@ -19,7 +19,7 @@ My research interests focus especially, but not exclusively, on machine/deep lea
 
 9-**Burak Ekim**, Michael Schmitt. 2023. "Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping". Oral presentation at ICLR 2023 Machine Learning for Remote Sensing Workshop. [Preprint](https://arxiv.org/pdf/2304.02407.pdf).
 
-8-**Burak Ekim**, Michael Schmitt. 2023. "Modality-level Occlusion Analysis for Earth Observation" IGARSS 2023.
+8-**Burak Ekim**, Michael Schmitt. 2023. "Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping" IGARSS 2023.
 
 7-**Burak Ekim**, Timo T. Stomberg, Ribana Roscher, Michael Schmitt. 2022. "Mapinwild: A Remote Sensing Dataset to Address the Question What Makes Nature Wild. Accepted for publication in IEEE Geoscience and Remote Sensing Magazine [Paper](https://ieeexplore.ieee.org/document/10089830?source=authoralert), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
 
