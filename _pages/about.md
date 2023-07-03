@@ -17,13 +17,15 @@ My research interests focus especially, but not exclusively, on machine/deep lea
 
 ## Publications
 
+10- Tobias Landmann, Michael Schmitt, **Burak Ekim**, Jandouwe Villinger, Faith Ashiono, Jan C. Habel & Henri E. Z. Tonnang. 2023. Insect diversity is a good indicator of biodiversity status in Africa. Communications Earth & Environment [Paper](https://www.nature.com/articles/s43247-023-00896-1).
+
 9-**Burak Ekim**, Michael Schmitt. 2023. "Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping". Oral presentation at ICLR 2023 Machine Learning for Remote Sensing Workshop. [Preprint](https://arxiv.org/pdf/2304.02407.pdf).
 
 8-**Burak Ekim**, Michael Schmitt. 2023. "Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping" IGARSS 2023.
 
-7-**Burak Ekim**, Timo T. Stomberg, Ribana Roscher, Michael Schmitt. 2022. "Mapinwild: A Remote Sensing Dataset to Address the Question What Makes Nature Wild. Accepted for publication in IEEE Geoscience and Remote Sensing Magazine [Paper](https://ieeexplore.ieee.org/document/10089830?source=authoralert), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
+7-**Burak Ekim**, Timo T. Stomberg, Ribana Roscher, Michael Schmitt. 2022. "Mapinwild: A Remote Sensing Dataset to Address the Question What Makes Nature Wild. IEEE Geoscience and Remote Sensing Magazine [Paper](https://ieeexplore.ieee.org/document/10089830?source=authoralert), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
 
-6-**Burak Ekim**, Michael Schmitt. 2022. "Mapinwild: A Dataset for Global Wilderness Mapping" IGARSS 2022. [Paper](https://ieeexplore.ieee.org/document/9883217), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
+6-**Burak Ekim**, Michael Schmitt. 2022. "MapInWild: A Dataset for Global Wilderness Mapping" IGARSS 2022. [Paper](https://ieeexplore.ieee.org/document/9883217), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
 
 5- Elif Sertel, **Burak Ekim**, Paria Ettehadi Osgouei, and M. Erdem Kabadayi. 2022. "Land Use and Land Cover Mapping Using Deep Learning Based Segmentation Approaches and VHR Worldview-3 Images" Remote Sensing 14, no. 18: 4558. [Paper](https://doi.org/10.3390/rs14184558), [Code and Dataset](https://github.com/burakekim/LULCMapping-WV3images-CORINE-DLMethods).
 
