@@ -55,10 +55,10 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #252a34;
 
-$background-color           : #daefdd;
+$background-color           : #daefdd; // Change here!
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
-$text-color                 : #333; // Example: a darker color for contrast
+$text-color                 : #555; // Example: a darker color for contrast
 $border-color               : mix(#fff, $background-color, 20%);
 
 // $background-color           : #252a34;
