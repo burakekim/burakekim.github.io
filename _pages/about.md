@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student and Research Associate at the [Department of Aerospace Engineering](https://www.unibw.de/lrt) of [Bundeswehr University Munich](https://www.unibw.de/home), under the supervision of [Michael Schmitt](https://schmitt-muc.github.io/). 
-
-Before, I was a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/). I received my Master’s degree in Satellite Communication and Remote Sensing from [Istanbul Technical University](https://www.itu.edu.tr/en), Turkey in 2021 under the supervision of [Elif Sertel](https://web.itu.edu.tr/~sertele/). 
+I am a PhD student and Research Associate at the [Department of Aerospace Engineering](https://www.unibw.de/lrt) of [Bundeswehr University Munich](https://www.unibw.de/home), under the supervision of [Michael Schmitt](https://schmitt-muc.github.io/). Before, I was a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/). I received my Master’s degree in Satellite Communication and Remote Sensing from [Istanbul Technical University](https://www.itu.edu.tr/en), Turkey in 2021 under the supervision of [Elif Sertel](https://web.itu.edu.tr/~sertele/). 
 
 My research interests focus especially, but not exclusively, on machine/deep learning and computer vision with a particular emphasis on multi-modal earth observation data for _environmental conservation_ using _explainable machine learning_. 
 
