@@ -37,6 +37,8 @@ My research interests focus especially, but not exclusively, on machine/deep lea
 
 ## News
 
+[**June, 2023**] I participated in a tutorial on Ethics in AI for Earth Observation at the International Conference on Geosciences and Remote Sensing, where I presented the ethical challenges and considerations of conducting geospatial machine learning research with a focus on using satellite data for environmental monitoring and biodiversity conservation. See the LinkedIn post [here](https://www.linkedin.com/embed/feed/update/urn:li:share:7088108532616568832).
+
 [**March, 2023**] Our paper titled [Explaining Multi Modal Data Fusion: Occlusion Analysis for Wilderness Mapping](https://arxiv.org/abs/2304.02407) has been accepted to [ICCV 2023 Machine Learning for Remote Sensing Workshop](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/#travel-support). I further received a travel grant to visit the conference. 
 
 [**October, 2022**] I visited [Ribana Roscher's Remote Sensing Group](http://rs.ipb.uni-bonn.de/people/) @ Bonn University.
