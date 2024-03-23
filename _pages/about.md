@@ -15,7 +15,7 @@ My research interests focus especially, but not exclusively, on machine/deep lea
 
 ## News
 
-[**March, 2024**] I will join [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) as a Research Intern under Residency Programme. 
+[**March, 2024**] I will join [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) as a Research Intern under the Residency Program. 
 
 
 [**March, 2024**] Our paper titled "Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors" has been accepted to [ICLR 2024 Tackling Climate Change with Machine Learning Workshop](https://www.climatechange.ai/events/iclr2024).
