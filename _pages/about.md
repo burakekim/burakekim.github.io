@@ -15,31 +15,27 @@ My research interests focus especially, but not exclusively, on machine/deep lea
 
 ## News
 
-[**March, 2024**] I will join [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) as a Research Intern under the Residency Program. 
+[**May, 2024**] Joined [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) as a Research Intern under the Kenya Residency Program. 
 
+[**May, 2024**] Presented our paper titled ["Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors"](https://arxiv.org/abs/2406.19302) at [ICLR 2024 Tackling Climate Change with Machine Learning Workshop](https://www.climatechange.ai/events/iclr2024).
 
-[**March, 2024**] Our paper titled "Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors" has been accepted to [ICLR 2024 Tackling Climate Change with Machine Learning Workshop](https://www.climatechange.ai/events/iclr2024).
-
-
-[**June, 2023**] I participated in a tutorial on Ethics in AI for Earth Observation at the International Conference on Geosciences and Remote Sensing, where I presented the ethical challenges and considerations of conducting geospatial machine learning research with a focus on using satellite data for environmental monitoring and biodiversity conservation. See the LinkedIn post [here](https://www.linkedin.com/embed/feed/update/urn:li:share:7088108532616568832).
+[**June, 2023**] Participated in a tutorial on Ethics in AI for Earth Observation at the International Conference on Geosciences and Remote Sensing, where I presented the ethical challenges and considerations of conducting geospatial machine learning research with a focus on using satellite data for environmental monitoring and biodiversity conservation. See the LinkedIn post [here](https://www.linkedin.com/embed/feed/update/urn:li:share:7088108532616568832).
 
 [**March, 2023**] Our paper titled [Explaining Multi Modal Data Fusion: Occlusion Analysis for Wilderness Mapping](https://arxiv.org/abs/2304.02407) has been accepted to [ICLR 2023 Machine Learning for Remote Sensing Workshop](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/#travel-support). I further received a travel grant to visit the conference. 
 
-[**October, 2022**] I visited [Ribana Roscher's Remote Sensing Group](http://rs.ipb.uni-bonn.de/people/) @ Bonn University.
+[**October, 2022**] Visited [Ribana Roscher's Remote Sensing Group](http://rs.ipb.uni-bonn.de/people/) @ Bonn University.
 
-[**October, 2022**] I took over a demo station at the GeoforGood2022 Summit organized by Google. I talked about our _Naturalness Index_ and how it complements our main project on wilderness mapping [see the LinkedIn post here](https://www.linkedin.com/posts/burakekim_wild-wilderness-naturalness-activity-6983534299677356032-6A7v?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy).
+[**October, 2022**] Took over a demo station at the GeoforGood2022 Summit organized by Google. I talked about our _Naturalness Index_ and how it complements our main project on wilderness mapping [see the LinkedIn post here](https://www.linkedin.com/posts/burakekim_wild-wilderness-naturalness-activity-6983534299677356032-6A7v?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy).
 
-[**August, 2022**] I have presented our study "Towards an automatic, satellite-based mapping of wilderness areas" at ForestST2022 in Berlin. 
+[**August, 2022**] Presented our study "Towards an automatic, satellite-based mapping of wilderness areas" at ForestST2022 in Berlin. 
 
-[**June, 2022**] I have presented our work "MapInWild: A Dataset for Global Wilderness Mapping" at IGARSS 2022. See my related LinkedIn post [here](https://www.linkedin.com/posts/burakekim_wilderness-explainablemachinelarning-enviromentalmonitoring-activity-6955923794850893824-MWq1?utm_source=linkedin_share&utm_medium=member_desktop_web).
+[**June, 2022**] Presented our work "MapInWild: A Dataset for Global Wilderness Mapping" at IGARSS 2022. See my related LinkedIn post [here](https://www.linkedin.com/posts/burakekim_wilderness-explainablemachinelarning-enviromentalmonitoring-activity-6955923794850893824-MWq1?utm_source=linkedin_share&utm_medium=member_desktop_web).
 
 [**January, 2022**] [2021 Best M.Sc. Thesis Award]: My master's thesis titled "Land Cover and Land Use Classification of Multi-Modal High-Resolution Satellite Images Using Multi-Task Deep Learning Approach" received the first prize in IEEE GRSS Turkey Master Thesis Competition. See my talk [here](https://www.youtube.com/watch?v=KznDYXoMdjQ) and announcement [here](https://grssturkey.org//tez-yarismasi)(in Turkish). 
 
 <!-- [**August, 2021**] I am selected to attent the [InSAR Processing and Time-Series Analysis for Geophysical Applications: InSAR Scientific Computing Environment (ISCE), ARIA Tools, and MintPy course](https://www.unavco.org/event/2021-short-course-insar-processing-analysis-isce/). -->
 
-[**July, 2021**] I have presented our work titled "A Multi-task Deep Learning Framework for Building Footprint Segmentation" at IGARSS 2021. 
-
-[**July, 2021**] I am selected to attend the [Eastern European Machine Learning Summer School](https://www.eeml.eu/home) this year.
+[**July, 2021**] Presented our work titled "A Multi-task Deep Learning Framework for Building Footprint Segmentation" at IGARSS 2021. 
 
 [**October, 2020**] The SPOT-7 and TerraSAR-X images used in my thesis are delivered by [AIRBUS](https://www.airbus.com/) and [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) after positive evaluation of scientific proposals, respectively. 
 
@@ -48,11 +44,13 @@ My research interests focus especially, but not exclusively, on machine/deep lea
 
 ## Publications
 
+11- **Burak Ekim**, Michael Schmitt, 2024. Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors. ICLR Tackling Climate Change with Machine Learning Workshop [Paper](https://arxiv.org/abs/2406.19302).
+
 10- Tobias Landmann, Michael Schmitt, **Burak Ekim**, Jandouwe Villinger, Faith Ashiono, Jan C. Habel & Henri E. Z. Tonnang. 2023. Insect diversity is a good indicator of biodiversity status in Africa. Communications Earth & Environment [Paper](https://www.nature.com/articles/s43247-023-00896-1).
 
 9-**Burak Ekim**, Michael Schmitt. 2023. "Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping". Oral presentation at ICLR 2023 Machine Learning for Remote Sensing Workshop. [Preprint](https://arxiv.org/pdf/2304.02407.pdf).
 
-8-**Burak Ekim**, Michael Schmitt. 2023. "Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping" IGARSS 2023.
+8-**Burak Ekim**, Michael Schmitt. 2023. Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping" IGARSS 2023. [Paper](https://ieeexplore.ieee.org/document/10283349).
 
 7-**Burak Ekim**, Timo T. Stomberg, Ribana Roscher, Michael Schmitt. 2022. "Mapinwild: A Remote Sensing Dataset to Address the Question What Makes Nature Wild. IEEE Geoscience and Remote Sensing Magazine [Paper](https://ieeexplore.ieee.org/document/10089830?source=authoralert), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
 
