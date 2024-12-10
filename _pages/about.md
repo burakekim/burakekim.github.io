@@ -9,21 +9,22 @@ redirect_from:
 ---
 
 
-I am a PhD student and Research Associate at the [Department of Aerospace Engineering](https://www.unibw.de/lrt) of [Bundeswehr University Munich](https://www.unibw.de/home), under the supervision of [Michael Schmitt](https://schmitt-muc.github.io/). Before, I was a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/). I received my Master’s degree in Satellite Communication and Remote Sensing from [Istanbul Technical University](https://www.itu.edu.tr/en), Turkey in 2021 under the supervision of [Elif Sertel](https://web.itu.edu.tr/~sertele/). 
+I am a PhD student and Research Associate at the [Department of Aerospace Engineering](https://www.unibw.de/lrt) of [Bundeswehr University Munich](https://www.unibw.de/home), under the supervision of [Michael Schmitt](https://schmitt-muc.github.io/). Before, I was a research assistant at [Koç University](https://www.ku.edu.tr/en/), on an ERC project titled [UrbanOccupations](https://urbanoccupations.ku.edu.tr/). I received my Master’s degree in Remote Sensing from [Istanbul Technical University](https://www.itu.edu.tr/en), Türkiye in 2021 under the supervision of [Elif Sertel](https://web.itu.edu.tr/~sertele/). 
 
-My research interests focus especially, but not exclusively, on machine/deep learning and computer vision with a particular emphasis on multi-modal earth observation data for _environmental conservation_ using _explainable machine learning_. 
+My research interests focus on interpretable and deployable data-driven ML solutions for computer vision with specific focus on  remotely sensed data for environmental conservation, sustainability, and damage response. 
 
 ## News
+[**September, 2024**] Our paper [Deep Occlusion Framework for Multimodal Earth Observation Data](https://ieeexplore.ieee.org/document/10680581) has been published in IEEE GRSL. 
 
-[**May, 2024**] Joined [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) as a Research Intern under the Kenya Residency Program. 
+[**May, 2024**] After 6 amazing months, I completed my Reseach Residency at [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) in Nairobi, Kenya.
 
 [**May, 2024**] Presented our paper titled ["Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors"](https://arxiv.org/abs/2406.19302) at [ICLR 2024 Tackling Climate Change with Machine Learning Workshop](https://www.climatechange.ai/events/iclr2024).
 
 [**June, 2023**] Participated in a tutorial on Ethics in AI for Earth Observation at the International Conference on Geosciences and Remote Sensing, where I presented the ethical challenges and considerations of conducting geospatial machine learning research with a focus on using satellite data for environmental monitoring and biodiversity conservation. See the LinkedIn post [here](https://www.linkedin.com/embed/feed/update/urn:li:share:7088108532616568832).
 
-[**March, 2023**] Our paper titled [Explaining Multi Modal Data Fusion: Occlusion Analysis for Wilderness Mapping](https://arxiv.org/abs/2304.02407) has been accepted to [ICLR 2023 Machine Learning for Remote Sensing Workshop](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/#travel-support). I further received a travel grant to visit the conference. 
+[**March, 2023**] Our paper [Explaining Multi Modal Data Fusion: Occlusion Analysis for Wilderness Mapping](https://arxiv.org/abs/2304.02407) has been accepted to [ICLR 2023 Machine Learning for Remote Sensing Workshop](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/#travel-support). I further received a travel grant to visit the conference. 
 
-[**October, 2022**] Visited [Ribana Roscher's Remote Sensing Group](http://rs.ipb.uni-bonn.de/people/) @ Bonn University.
+[**October, 2022**] Visited [Ribana Roscher's Remote Sensing Group](http://rs.ipb.uni-bonn.de/people/) of Bonn University, Germany.
 
 [**October, 2022**] Took over a demo station at the GeoforGood2022 Summit organized by Google. I talked about our _Naturalness Index_ and how it complements our main project on wilderness mapping [see the LinkedIn post here](https://www.linkedin.com/posts/burakekim_wild-wilderness-naturalness-activity-6983534299677356032-6A7v?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy).
 
@@ -33,16 +34,16 @@ My research interests focus especially, but not exclusively, on machine/deep lea
 
 [**January, 2022**] [2021 Best M.Sc. Thesis Award]: My master's thesis titled "Land Cover and Land Use Classification of Multi-Modal High-Resolution Satellite Images Using Multi-Task Deep Learning Approach" received the first prize in IEEE GRSS Turkey Master Thesis Competition. See my talk [here](https://www.youtube.com/watch?v=KznDYXoMdjQ) and announcement [here](https://grssturkey.org//tez-yarismasi)(in Turkish). 
 
-<!-- [**August, 2021**] I am selected to attent the [InSAR Processing and Time-Series Analysis for Geophysical Applications: InSAR Scientific Computing Environment (ISCE), ARIA Tools, and MintPy course](https://www.unavco.org/event/2021-short-course-insar-processing-analysis-isce/). -->
-
 [**July, 2021**] Presented our work titled "A Multi-task Deep Learning Framework for Building Footprint Segmentation" at IGARSS 2021. 
 
-[**October, 2020**] The SPOT-7 and TerraSAR-X images used in my thesis are delivered by [AIRBUS](https://www.airbus.com/) and [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) after positive evaluation of scientific proposals, respectively. 
+[**October, 2020**] The SPOT-7 and TerraSAR-X images used in my M.Sc. thesis are delivered by [AIRBUS](https://www.airbus.com/) and [German Aerospace Center(DLR)](https://www.dlr.de/EN/Home/home_node.html) after positive evaluation of scientific proposals. 
 
 [**July, 2020**] My MSc thesis has been awarded by [The Scientific and Technological Research Council of Turkey](https://www.tubitak.gov.tr/en), 2210/C Scholarship Program in the Priority Fields in Science and Technology. Feel free to take a look at the relevant posts covering my thesis and more [here](https://www.linkedin.com/feed/update/urn:li:activity:6817060928564015104/).
 
 
 ## Publications
+
+12- **Burak Ekim**, Michael Schmitt, 2024. Deep Occlusion Framework for Multimodal Earth Observation Data [Paper](https://ieeexplore.ieee.org/document/10680581).
 
 11- **Burak Ekim**, Michael Schmitt, 2024. Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors. ICLR Tackling Climate Change with Machine Learning Workshop [Paper](https://arxiv.org/abs/2406.19302).
 
