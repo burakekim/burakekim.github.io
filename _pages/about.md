@@ -16,9 +16,9 @@ I focus on developing interpretable, deployable machine learning solutions for c
 
 [**December, 2024**] Our paper [Distribution Shifts at Scale: Out-of-distribution Detection in Earth Observation](https://arxiv.org/abs/2412.13394) is now on arxiv.
 
-[**September, 2024**] Our paper [Deep Occlusion Framework for Multimodal Earth Observation Data](https://ieeexplore.ieee.org/document/10680581) has been published in IEEE GRSL.
+[**November, 2024**] After six amazing months, I completed my Research Residency at [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) in Nairobi, Kenya.
 
-[**May, 2024**] After six amazing months, I completed my Research Residency at [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) in Nairobi, Kenya.
+[**September, 2024**] Our paper [Deep Occlusion Framework for Multimodal Earth Observation Data](https://ieeexplore.ieee.org/document/10680581) has been published in IEEE GRSL.
 
 [**May, 2024**] Presented our paper ["Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors"](https://arxiv.org/abs/2406.19302) at the [ICLR 2024 Tackling Climate Change with Machine Learning Workshop](https://www.climatechange.ai/events/iclr2024).
 
