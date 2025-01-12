@@ -46,29 +46,29 @@ I focus on developing interpretable, deployable machine learning solutions for c
 
 ## Publications
 
-12. **Burak Ekim**, Michael Schmitt, 2024. *Deep Occlusion Framework for Multimodal Earth Observation Data*. [Paper](https://ieeexplore.ieee.org/document/10680581).
+- **Burak Ekim**, Michael Schmitt, 2024. *Deep Occlusion Framework for Multimodal Earth Observation Data*. [Paper](https://ieeexplore.ieee.org/document/10680581).
 
-11. **Burak Ekim**, Michael Schmitt, 2024. *Mapping Land Naturalness from Sentinel-2 Using Deep Contextual and Geographical Priors*. ICLR Tackling Climate Change with Machine Learning Workshop. [Paper](https://arxiv.org/abs/2406.19302).
+- **Burak Ekim**, Michael Schmitt, 2024. *Mapping Land Naturalness from Sentinel-2 Using Deep Contextual and Geographical Priors*. ICLR Tackling Climate Change with Machine Learning Workshop. [Paper](https://arxiv.org/abs/2406.19302).
 
-10. Tobias Landmann, Michael Schmitt, **Burak Ekim**, Jandouwe Villinger, Faith Ashiono, Jan C. Habel, Henri E. Z. Tonnang, 2023. *Insect Diversity is a Good Indicator of Biodiversity Status in Africa*. *Communications Earth & Environment*. [Paper](https://www.nature.com/articles/s43247-023-00896-1).
+- Tobias Landmann, Michael Schmitt, **Burak Ekim**, Jandouwe Villinger, Faith Ashiono, Jan C. Habel, Henri E. Z. Tonnang, 2023. *Insect Diversity is a Good Indicator of Biodiversity Status in Africa*. *Communications Earth & Environment*. [Paper](https://www.nature.com/articles/s43247-023-00896-1).
 
-9. **Burak Ekim**, Michael Schmitt, 2023. *Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping*. Oral presentation at ICLR 2023 Machine Learning for Remote Sensing Workshop. [Preprint](https://arxiv.org/pdf/2304.02407.pdf).
+-  **Burak Ekim**, Michael Schmitt, 2023. *Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping*. Oral presentation at ICLR 2023 Machine Learning for Remote Sensing Workshop. [Preprint](https://arxiv.org/pdf/2304.02407.pdf).
 
-8. **Burak Ekim**, Michael Schmitt, 2023. *Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping*. IGARSS 2023. [Paper](https://ieeexplore.ieee.org/document/10283349).
+- **Burak Ekim**, Michael Schmitt, 2023. *Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping*. IGARSS 2023. [Paper](https://ieeexplore.ieee.org/document/10283349).
 
-7. **Burak Ekim**, Timo T. Stomberg, Ribana Roscher, Michael Schmitt, 2022. *MapInWild: A Remote Sensing Dataset to Address the Question "What Makes Nature Wild"*. *IEEE Geoscience and Remote Sensing Magazine*. [Paper](https://ieeexplore.ieee.org/document/10089830?source=authoralert), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
+- **Burak Ekim**, Timo T. Stomberg, Ribana Roscher, Michael Schmitt, 2022. *MapInWild: A Remote Sensing Dataset to Address the Question "What Makes Nature Wild"*. *IEEE Geoscience and Remote Sensing Magazine*. [Paper](https://ieeexplore.ieee.org/document/10089830?source=authoralert), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
 
-6. **Burak Ekim**, Michael Schmitt, 2022. *MapInWild: A Dataset for Global Wilderness Mapping*. IGARSS 2022. [Paper](https://ieeexplore.ieee.org/document/9883217), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
+- **Burak Ekim**, Michael Schmitt, 2022. *MapInWild: A Dataset for Global Wilderness Mapping*. IGARSS 2022. [Paper](https://ieeexplore.ieee.org/document/9883217), [Code](https://github.com/burakekim/MapInWild), [Dataset](https://dataverse.harvard.edu/dataverse/mapinwild).
 
-5. Elif Sertel, **Burak Ekim**, Paria Ettehadi Osgouei, M. Erdem Kabadayi, 2022. *Land Use and Land Cover Mapping Using Deep Learning-Based Segmentation Approaches and VHR Worldview-3 Images*. *Remote Sensing*, 14(18):4558. [Paper](https://doi.org/10.3390/rs14184558), [Code and Dataset](https://github.com/burakekim/LULCMapping-WV3images-CORINE-DLMethods).
+- Elif Sertel, **Burak Ekim**, Paria Ettehadi Osgouei, M. Erdem Kabadayi, 2022. *Land Use and Land Cover Mapping Using Deep Learning-Based Segmentation Approaches and VHR Worldview-3 Images*. *Remote Sensing*, 14(18):4558. [Paper](https://doi.org/10.3390/rs14184558), [Code and Dataset](https://github.com/burakekim/LULCMapping-WV3images-CORINE-DLMethods).
 
-4. **Burak Ekim**, Zeyu Dong, Dmitry Rashkovetsky, Michael Schmitt, 2021. *The Naturalness Index for the Identification of Natural Areas on a Regional Scale*. *International Journal of Applied Earth Observation and Geoinformation*. [Paper](https://www.sciencedirect.com/science/article/pii/S0303243421003299).
+- **Burak Ekim**, Zeyu Dong, Dmitry Rashkovetsky, Michael Schmitt, 2021. *The Naturalness Index for the Identification of Natural Areas on a Regional Scale*. *International Journal of Applied Earth Observation and Geoinformation*. [Paper](https://www.sciencedirect.com/science/article/pii/S0303243421003299).
 
-3. **Burak Ekim**, Elif Sertel, 2021. *Deep Neural Network Ensembles for Remote Sensing Land Cover and Land Use Classification*. *International Journal of Digital Earth*. [Paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.1980125).
+- **Burak Ekim**, Elif Sertel, 2021. *Deep Neural Network Ensembles for Remote Sensing Land Cover and Land Use Classification*. *International Journal of Digital Earth*. [Paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.1980125).
 
-2. **Burak Ekim**, Elif Sertel, 2021. *A Multi-Task Deep Learning Framework for Building Footprint Segmentation*. IGARSS 2021, Brussels. [Paper](https://ieeexplore.ieee.org/document/9554766), [Code](https://github.com/burakekim/MTL_homoscedastic_SRB).
+- **Burak Ekim**, Elif Sertel, 2021. *A Multi-Task Deep Learning Framework for Building Footprint Segmentation*. IGARSS 2021, Brussels. [Paper](https://ieeexplore.ieee.org/document/9554766), [Code](https://github.com/burakekim/MTL_homoscedastic_SRB).
 
-1. **Burak Ekim**, Elif Sertel, M. Erdem Kabadayı, 2021. *Automatic Road Extraction from Historical Maps Using Deep Learning Techniques: A Regional Case Study of Turkey in a German World War II Map*. *ISPRS International Journal of Geo-Information*. [Paper](https://www.mdpi.com/2220-9964/10/8/492), [Code](https://github.com/UrbanOccupationsOETR/Automatic-Road-Extraction-from-Historical-Maps-using-Deep-Learning-Techniques), [Dataset and Weights](https://urbanoccupations.ku.edu.tr/historical-road-types-for-turkey-1940s/).
+- **Burak Ekim**, Elif Sertel, M. Erdem Kabadayı, 2021. *Automatic Road Extraction from Historical Maps Using Deep Learning Techniques: A Regional Case Study of Turkey in a German World War II Map*. *ISPRS International Journal of Geo-Information*. [Paper](https://www.mdpi.com/2220-9964/10/8/492), [Code](https://github.com/UrbanOccupationsOETR/Automatic-Road-Extraction-from-Historical-Maps-using-Deep-Learning-Techniques), [Dataset and Weights](https://urbanoccupations.ku.edu.tr/historical-road-types-for-turkey-1940s/).
 
 <script type="text/javascript" style="height:10px; width:10px" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9kmrPH6U4ucC9bOOYr5mKNmBfa0zVBRvBzSgE0Wv9nY&cl=ffffff&w=a"></script>
 
