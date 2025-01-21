@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and Research Associate at the [Department of Aerospace Engineering](https://www.unibw.de/lrt) of [Bundeswehr University Munich](https://www.unibw.de/home), under the supervision of [Michael Schmitt](https://schmitt-muc.github.io/). Previously, I was a research assistant at [Koç University](https://www.ku.edu.tr/en/), working on the ERC-funded project [UrbanOccupations](https://urbanoccupations.ku.edu.tr/). I received my Master’s degree in Remote Sensing from [Istanbul Technical University](https://www.itu.edu.tr/en), under the supervision of [Elif Sertel](https://web.itu.edu.tr/~sertele/).
+I am a PhD student and Research Associate at the University of the Bundeswehr Munich, Germany, supervised by [Michael Schmitt](https://schmitt-muc.github.io/). Previously, I was a research assistant at [Koç University](https://www.ku.edu.tr/en) and earned my Master’s degree from [Istanbul Technical University](https://www.itu.edu.tr/en) under the supervision of [Elif Sertel](https://web.itu.edu.tr/~sertele/).
 
-I focus on developing interpretable, deployable machine learning solutions for computer vision to tackle environmental conservation, sustainability, and disaster-response challenges.
+My research focuses on developing interpretable and deployable geospatial machine learning solutions for environmental conservation, sustainability, and disaster response.
 
 ## News
 
