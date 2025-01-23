@@ -20,7 +20,7 @@ My research focuses on developing interpretable and deployable geospatial machin
 
 [**September, 2024**] Our paper [Deep Occlusion Framework for Multimodal Earth Observation Data](https://ieeexplore.ieee.org/document/10680581) has been published in IEEE GRSL.
 
-[**May, 2024**] Presented our paper ["Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors"](https://arxiv.org/abs/2406.19302) at the [ICLR 2024 Tackling Climate Change with Machine Learning Workshop](https://www.climatechange.ai/events/iclr2024).
+[**May, 2024**] Presented our paper [Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors](https://arxiv.org/abs/2406.19302) at the [ICLR 2024 Tackling Climate Change with Machine Learning Workshop](https://www.climatechange.ai/events/iclr2024).
 
 [**June, 2023**] Participated in a tutorial on Ethics in AI for Earth Observation at the International Conference on Geosciences and Remote Sensing. I presented the ethical challenges and considerations of conducting geospatial machine-learning research with a focus on using satellite data for environmental monitoring and biodiversity conservation. You can find the LinkedIn post [here](https://www.linkedin.com/embed/feed/update/urn:li:share:7088108532616568832).
 
