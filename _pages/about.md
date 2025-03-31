@@ -14,7 +14,7 @@ My research focuses on developing scalable and robust geospatial machine learnin
 
 ## News
 
-[**December, 2024**] Our paper [Distribution Shifts at Scale: Out-of-distribution Detection in Earth Observation](https://arxiv.org/abs/2412.13394) is now on arxiv.
+[**December, 2024**] Our paper [Distribution Shifts at Scale: Out-of-distribution Detection in Earth Observation](https://arxiv.org/abs/2412.13394) was accepted to the EarthVision workshop at CVPR 2025.
 
 [**November, 2024**] After six amazing months, I completed my Research Residency at [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) in Nairobi, Kenya.
 
