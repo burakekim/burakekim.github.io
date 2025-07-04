@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student and Research Associate at the University of the Bundeswehr Munich, Germany, supervised by [Michael Schmitt](https://schmitt-muc.github.io/). Previously, I was a research assistant at [Koç University](https://www.ku.edu.tr/en) and received my Master’s degree from [Istanbul Technical University](https://www.itu.edu.tr/en) under the supervision of [Elif Sertel](https://web.itu.edu.tr/~sertele/).
 
-My research focuses on developing scalable and robust [geospatial] machine learning solutions for environmental conservation, sustainability, and disaster response. I work on methods such as out-of-distribution detection for large-scale deployment and interpretable ML for influential sample selection.
+My research focuses on developing scalable and robust [geospatial] machine learning solutions for environmental conservation, sustainability, and disaster response. I work on methods such as out-of-distribution detection for planetary scale deployment and interpretable ML for influential sample selection.
 
 ## News
 
