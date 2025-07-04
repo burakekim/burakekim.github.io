@@ -14,7 +14,7 @@ I am a PhD student and Research Associate at the University of the Bundeswehr Mu
 
 ## News
 
-[**July, 2025**] I am starting my Student Researcher position at Google Research in London!
+[**July, 2025**]  I am starting my Student Researcher position with the Climate and Sustainability team at Google Research in London!
 
 [**December, 2024**] Our paper [Distribution Shifts at Scale: Out-of-distribution Detection in Earth Observation](https://arxiv.org/abs/2412.13394) was accepted to the EarthVision workshop at CVPR 2025.
 
