@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Burak Ekim"
 title_separator          : "-"
 name                     : &name "Burak Ekim"
-# description              : &description "yet another resesarcher"
+description              :
 url                      : https://burakekim.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "burakekim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Burak Ekim"
   avatar           : "geoforgood_ekim.jpg"
-  bio              : " Student Researcher @ Google\n, Resident @ Microsoft\n, PhD candidate @ UniBw"
+  bio              : " Student Researcher @ Google, Resident @ Microsoft, PhD candidate @ UniBw"
   location         : "London"
   employer         :
   pubmed           : 
