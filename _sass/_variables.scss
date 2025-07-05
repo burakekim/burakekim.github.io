@@ -112,8 +112,8 @@ $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 15%) !default;
 // $masthead-link-color        : $primary-color !default;
 $masthead-link-color: #ed8713; // New color for "Burak Ekim"
-// $masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
-$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+$masthead-link-color-hover: #c46f0f; // Slightly darker version of #ed871
+// $navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
 
 // $link-color                 : $info-color;
 // $link-color-hover           : mix(#000, $link-color, 25%);
